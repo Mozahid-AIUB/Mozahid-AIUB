@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mozahid-AIUB/Mozahid-AIUB/main/70294a91-9c75-46c5-bd35-b75b0a87f180.jpg" alt="Banner" width="100%" />
+  <img src="70294a91-9c75-46c5-bd35-b75b0a87f180.jpgE" alt="Banner" style="max-height: 250px; object-fit: cover; width: 100%;" />
 </p>
 
 
