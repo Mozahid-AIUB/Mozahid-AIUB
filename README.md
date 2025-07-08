@@ -1,16 +1,75 @@
-## Hi there 👋
+<!-- Banner Image (Optional) -->
+<p align="center">
+  <img src="https://your-uploaded-banner-link.png" alt="Mozahidul Islam Banner" width="100%" />
+</p>
 
-<!--
-**Mozahid-AIUB/Mozahid-AIUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mozahidul Islam</h1>
+<h3 align="center">🎓 Programmer | 💻 Tech Consultant | 📊 Data Analyst | 🧠 Mentor</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧾 About Me
+
+🎯 Passionate about solving real-world problems using tech and guiding future programmers.  
+📚 Currently pursuing **BSc in Computer Science** at **AIUB**
+🧑‍🏫 Teaching students (Grades 1-10) to build strong academic foundations  
+📍 Based in **Bashundhara, Dhaka, Bangladesh**
+
+---
+
+## 👨‍💻 Tech Stack
+
+**Languages:**  
+`Python` | `Java` | `C#` | `C++` | `HTML` | `CSS` | `SQL`
+
+**Frameworks & Tools:**  
+`.NET` | `Java Swing` | `Oracle DBMS` | `Tailwind CSS` | `Git & GitHub` | `Figma` | `Visual Studio` | `VS Code`
+
+**Skills:**  
+Data Structures & Algorithms | Data Analysis & Visualization | Software Engineering | UML Design | Agile, XP, Scrum
+
+---
+
+## 🏗️ Projects
+
+🔹 **Child Care Management System** (C# .NET)  
+🔹 **Organ Transplant Management System** (Oracle DBMS)  
+🔹 **Event Management System** (UML-focused)  
+🔹 **Patient Management System** (Java Swing)
+
+👉 Explore more at: [My GitHub Repos](https://github.com/Mozahid-AIUB)  
+🌐 Portfolio: [Google Sites](https://sites.google.com/view/mozahidislamaiub)
+
+---
+
+## 📜 Certifications
+
+- ✅ Python for Beginners (Microsoft)
+- ✅ C# Programming (Microsoft)
+- ✅ Oracle DBMS Essentials
+- ✅ Cisco Networking Fundamentals
+- 🏆 Competitive Programming Contests (Inter-University)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mozahid-AIUB&show_icons=true&theme=react" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mozahid-AIUB&theme=react" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [mozahidislam343@gmail.com](mailto:mozahidislam343@gmail.com)  
+- 📱 Phone: +8801707591255  
+- 🔗 LinkedIn: [linkedin.com/in/mozahid343](https://linkedin.com/in/mozahid343)  
+- 📹 YouTube: [@mozahidislam589](https://www.youtube.com/@mozahidislam589/videos)  
+
+---
+
+*“Inspiring future generations through code and compassion.”*
+
