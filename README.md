@@ -17,7 +17,7 @@
 I’m passionate about building and delivering end-to-end digital solutions. My journey includes:
 
 - ✔️ **Java Swing Desktop Applications**: Designed and implemented an **Event Management System** featuring user registration, scheduling, and admin dashboard with Oracle DB and UML documentation.
-- ✔️ **C# Full‑Stack Projects**: Developed a **Patient Care System** using Windows Forms and SQL Server, covering authentication, billing, and patient dashboards.
+- ✔️ **C# Full‑Stack Projects**: Developed a **Child Care System** using Windows Forms and SQL Server, covering authentication, billing, and patient dashboards.
 - ✔️ **Data Analytics & Reporting**: Cleaned and visualized real datasets using Excel and Power BI, creating actionable business reports.
 - ✔️ **Academic Excellence**: Achieved a 3.76 CGPA in CSE at AIUB; engaged in programming contests and Codeforces challenges.
 - ✔️ **Educator & Mentor**: Delivered IT and programming workshops, supporting students to learn coding fundamentals and project development.
@@ -31,22 +31,43 @@ I’m passionate about building and delivering end-to-end digital solutions. My 
 | **Languages**      | C#, Java, Python, SQL, JavaScript, Bash |
 | **Frameworks**     | .NET, ASP.NET, Java Swing, Windows Forms |
 | **Databases**      | Oracle, MS SQL Server, MySQL |
-| **Visualization**  | Excel, Power BI |
+| **Visualization**  | Excel, Power BI(basic) |
 | **Tools & VCS**    | Visual Studio, VS Code, Git, GitHub |
-| **Workflow**       | UML (use case, sequence diagrams), Agile basics |
+| **Workflow**       | UML (use case, sequence diagrams), Agile,Xp industry Standart SWE model |
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Event Management System](https://github.com/Mozahid-AIUB/Event-Management-System)**  
-  A full-featured Java Swing desktop app with Oracle DB, organized via clear UML design.
+- 👶 **[Day Care Management System](https://github.com/Mozahid-AIUB/Day-Care-Management-System)**  
+  Manages daycare services including child registration, attendance tracking, and reporting.  
+  **Tech:** C#, .NET, Windows Forms, SQL Server
 
-- **[Patient Care System](https://github.com/Mozahid-AIUB/Patient-Care-System)**  
-  C# Windows Forms application with integrated billing, auth, and data persistence via SQL Server.
+- 🏥 **[HMS_JAVA](https://github.com/Mozahid-AIUB/HMS_JAVA)**  
+  Java-based Hospital Management System for handling appointments and patient records.  
+  **Tech:** Java, Swing, MySQL, Windows Forms
 
-- **[Excel Data Cleaning & Visualization](https://github.com/Mozahid-AIUB/Data-Cleaning-Project)**  
-  Strategic data analysis using Excel formulas, pivot tables, and Power BI to generate industry insights.
+- 🖼️ **[The Village Scenario - Computer Graphics](https://github.com/Mozahid-AIUB/Computer_Grapics_Projects_-The-Village-Scenario)**  
+  A 2D/3D animated scene representing village life using graphics techniques.  
+  **Tech:** C++, OpenGL
+
+- 🎯 **[Event Management System](https://github.com/Mozahid-AIUB/Event-Management-System)**  
+  Desktop-based application for event bookings with UML modeling and Oracle DB.  
+  **Tech:** Oracle, UML
+
+-- 🖥️ **[Medinexis Software Engineering](https://github.com/Mozahid-AIUB/medinexis-software-engineering)**  
+  A full-fledged Software Engineering academic project focused on developing a healthcare solution.  
+  Includes complete documentation following SDLC phases — from requirement analysis, use case diagrams, UML designs, to implementation and testing.  
+  **Tech:** C#, ASP.NET Core MVC, SQL Server, Visual Studio  
+  **Model:** End-to-End SDLC Documentation | UML | ERD | Use Cases | Test Plan
+
+- 🎨 **[Nixus UI Design](https://github.com/Mozahid-AIUB/nixus-ui-design)**  
+  A UI/UX design prototype featuring clean, modern interfaces and user flows.  
+  **Tech:** Figma 
+
+- 🗄️ **[Database Project](https://github.com/Mozahid-AIUB/Database_Project)**  
+  SQL-based DBMS project showcasing schema design and SQL query logic.  
+  **Tech:** MySQL, SQL, Relational Schema
 
 ---
 
@@ -64,8 +85,8 @@ I’m passionate about building and delivering end-to-end digital solutions. My 
 
 ## 📫 Let’s Connect
 
-- 📧 **Email**: mozahid.cse@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/mozahid-aiub](https://www.linkedin.com/in/mozahid-aiub)  
+- 📧 **Email**: mozahidislam343@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/mozahid-aiub](https://www.linkedin.com/in/mozahidislam)  
 - 🌐 **Portfolio**: *Coming Soon*
 
 ---
