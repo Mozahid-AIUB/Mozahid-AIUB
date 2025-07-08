@@ -1,75 +1,73 @@
 <p align="center">
-  <img src="70294a91-9c75-46c5-bd35-b75b0a87f180.jpg" alt="Banner" style="max-height: 250px; object-fit: cover; width: 100%;" />
+  <img src="https://github.com/Mozahid-AIUB/Mozahid-AIUB/blob/main/github-header-image.png?raw=true" alt="Banner" width="100%" height="180px" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Mozahidul Islam</h1>
-<h3 align="center">🎓 Programmer | 💻 Tech Consultant | 📊 Data Analyst | 🧠 Mentor</h3>
-
----
-
-## 🧾 About Me
-
-🎯 Passionate about solving real-world problems using tech and guiding future programmers.  
-📚 Currently pursuing **BSc in Computer Science** at **AIUB**
-🧑‍🏫 Teaching students (Grades 1-10) to build strong academic foundations  
-📍 Based in **Bashundhara, Dhaka, Bangladesh**
-
----
-
-## 👨‍💻 Tech Stack
-
-**Languages:**  
-`Python` | `Java` | `C#` | `C++` | `HTML` | `CSS` | `SQL`
-
-**Frameworks & Tools:**  
-`.NET` | `Java Swing` | `Oracle DBMS` | `Tailwind CSS` | `Git & GitHub` | `Figma` | `Visual Studio` | `VS Code`
-
-**Skills:**  
-Data Structures & Algorithms | Data Analysis & Visualization | Software Engineering | UML Design | Agile, XP, Scrum
-
----
-
-## 🏗️ Projects
-
-🔹 **Child Care Management System** (C# .NET)  
-🔹 **Organ Transplant Management System** (Oracle DBMS)  
-🔹 **Event Management System** (UML-focused)  
-🔹 **Patient Management System** (Java Swing)
-
-👉 Explore more at: [My GitHub Repos](https://github.com/Mozahid-AIUB)  
-🌐 Portfolio: [Google Sites](https://sites.google.com/view/mozahidislamaiub)
-
----
-
-## 📜 Certifications
-
-- ✅ Python for Beginners (Microsoft)
-- ✅ C# Programming (Microsoft)
-- ✅ Oracle DBMS Essentials
-- ✅ Cisco Networking Fundamentals
-- 🏆 Competitive Programming Contests (Inter-University)
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi, I'm Mozahid 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mozahid-AIUB&show_icons=true&theme=react" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mozahid-AIUB&theme=react" alt="GitHub Streak" />
+  👨‍💻 Software Developer | 📊 Data Analyst | 📚 Tech Educator  
+  🎓 BSc in Computer Science & Engineering | 🏫 AIUB  
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🧑‍💼 About Me
 
-- 📧 Email: [mozahidislam343@gmail.com](mailto:mozahidislam343@gmail.com)  
-- 📱 Phone: +8801707591255  
-- 🔗 LinkedIn: [linkedin.com/in/mozahid343](https://linkedin.com/in/mozahid343)  
-- 📹 YouTube: [@mozahidislam589](https://www.youtube.com/@mozahidislam589/videos)  
+- 💻 Passionate about software engineering, data science, and teaching  
+- 🛠️ Skilled in C#, .NET, Java, Python, SQL, and Excel  
+- 📊 Experienced in data analysis, visualization, and reporting  
+- 🧠 Continuously learning: AI, ML, and backend development  
+- 🎤 I love sharing knowledge with others through teaching and mentorship  
+- 🌐 Looking for remote or on-site roles in software or data domains  
 
 ---
 
-*“Inspiring future generations through code and compassion.”*
+## 🛠️ Tech Stack
 
+**Languages & Tools:**  
+`C# | Java | Python | HTML/CSS | JavaScript | SQL | Bash`
+
+**Frameworks & Platforms:**  
+`.NET | ASP.NET | Swing | Windows Forms | Git | GitHub | Oracle DB | MySQL | Excel`
+
+**Tools:**  
+`Visual Studio | VS Code | MS SQL Server | Excel | Power BI | GitHub Desktop`
+
+---
+
+## 🚀 Projects
+
+- 🎯 **[Event Management System](https://github.com/Mozahid-AIUB/Event-Management-System)**  
+  Java Swing-based desktop app with Oracle DB and UML diagrams
+
+- 📊 **[Excel Data Analysis](https://github.com/Mozahid-AIUB/Data-Cleaning-Project)**  
+  Cleaned and visualized real-world Excel datasets
+
+- 💡 **[Patient Care System](https://github.com/Mozahid-AIUB/Patient-Care-System)**  
+  Windows Forms project using C# and SQL Server
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mozahid-AIUB&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mozahid-AIUB&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 Email: *your-email@example.com*  
+🔗 LinkedIn: [https://www.linkedin.com/in/mozahid-aiub](https://www.linkedin.com/in/mozahid-aiub)  
+🌐 Portfolio: *Coming Soon*
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting! Feel free to explore my repositories and connect with me!
+</p>
