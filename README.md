@@ -5,46 +5,46 @@
 <h1 align="center">Hi, I'm Mozahid 👋</h1>
 
 <p align="center">
-  👨‍💻 Software Developer | 📊 Data Analyst | 📚 Tech Educator  
-  🎓 BSc in Computer Science & Engineering | 🏫 AIUB  
+  👨‍💻 Software Developer | 📊 Data Analyst | 👨‍🏫 ICT Educator  
+  🎓 BSc in Computer Science & Engineering | 🏛️ American International University - Bangladesh (AIUB)  
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 💻 Passionate about software engineering, data science, and teaching  
-- 🛠️ Skilled in C#, .NET, Java, Python, SQL, and Excel  
-- 📊 Experienced in data analysis, visualization, and reporting  
-- 🧠 Continuously learning: AI, ML, and backend development  
-- 🎤 I love sharing knowledge with others through teaching and mentorship  
-- 🌐 Looking for remote or on-site roles in software or data domains  
+- 🎓 CGPA: **3.76** in CSE at AIUB  
+- 💼 Experienced in developing real-world software and data projects  
+- 🧠 Currently learning advanced **AI**, **machine learning**, and **backend systems**  
+- 🏆 Participated in **inter-university programming contests** (Codeforces certified)  
+- 📢 Passionate about teaching and guiding students in ICT & programming  
+- 🔍 Seeking a software engineering or data science role in a high-tech or remote environment
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools:**  
-`C# | Java | Python | HTML/CSS | JavaScript | SQL | Bash`
+**Programming Languages:**  
+`C# | Java | Python | HTML | CSS | JavaScript | SQL | Bash`
 
-**Frameworks & Platforms:**  
-`.NET | ASP.NET | Swing | Windows Forms | Git | GitHub | Oracle DB | MySQL | Excel`
+**Frameworks & Libraries:**  
+`.NET | ASP.NET | Java Swing | Windows Forms | UML | Git | GitHub`
 
-**Tools:**  
-`Visual Studio | VS Code | MS SQL Server | Excel | Power BI | GitHub Desktop`
+**Tools & Platforms:**  
+`Visual Studio | VS Code | MS SQL Server | Oracle DB | MySQL | Excel | Power BI | GitHub Desktop`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 - 🎯 **[Event Management System](https://github.com/Mozahid-AIUB/Event-Management-System)**  
-  Java Swing-based desktop app with Oracle DB and UML diagrams
-
-- 📊 **[Excel Data Analysis](https://github.com/Mozahid-AIUB/Data-Cleaning-Project)**  
-  Cleaned and visualized real-world Excel datasets
+  Built with **Java Swing**, this application manages event bookings with features like registration, scheduling, and admin control. Includes UML designs (use case, sequence, activity diagrams) and Oracle DB integration.
 
 - 💡 **[Patient Care System](https://github.com/Mozahid-AIUB/Patient-Care-System)**  
-  Windows Forms project using C# and SQL Server
+  A C# desktop application for healthcare management using **Windows Forms** and **SQL Server**. It offers registration, doctor-patient services, billing, and more.
+
+- 📊 **[Excel Data Cleaning & Visualization](https://github.com/Mozahid-AIUB/Data-Cleaning-Project)**  
+  Cleaned and analyzed Excel datasets using formulas, pivot tables, and Power BI for generating actionable business insights.
 
 ---
 
@@ -62,12 +62,12 @@
 
 ## 📫 Contact Me
 
-📧 Email: *your-email@example.com*  
+📧 Email: *mozahid.cse@gmail.com*  
 🔗 LinkedIn: [https://www.linkedin.com/in/mozahid-aiub](https://www.linkedin.com/in/mozahid-aiub)  
 🌐 Portfolio: *Coming Soon*
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting! Feel free to explore my repositories and connect with me!
+  🙏 Thanks for visiting! Feel free to explore my repositories and connect with me!
 </p>
