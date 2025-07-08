@@ -55,7 +55,7 @@ I’m passionate about building and delivering end-to-end digital solutions. My 
   Desktop-based application for event bookings with UML modeling and Oracle DB.  
   **Tech:** Oracle, UML
 
--- 🖥️ **[Medinexis Software Engineering](https://github.com/Mozahid-AIUB/medinexis-software-engineering)**  
+- 🖥️ **[Medinexis Software Engineering](https://github.com/Mozahid-AIUB/medinexis-software-engineering)**  
   A full-fledged Software Engineering academic project focused on developing a healthcare solution.  
   Includes complete documentation following SDLC phases — from requirement analysis, use case diagrams, UML designs, to implementation and testing.  
   **Tech:** C#, ASP.NET Core MVC, SQL Server, Visual Studio  
