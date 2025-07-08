@@ -1,8 +1,7 @@
-https://raw.githubusercontent.com/Mozahid-AIUB/Mozahid-AIUB/main/70294a91-9c75-46c5-bd35-b75b0a87f180.jpg
-<!-- Banner Image (Optional) -->
 <p align="center">
-  <img src="https://your-uploaded-banner-link.png" alt="Mozahidul Islam Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mozahid-AIUB/Mozahid-AIUB/main/70294a91-9c75-46c5-bd35-b75b0a87f180.jpg" alt="Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Mozahidul Islam</h1>
 <h3 align="center">🎓 Programmer | 💻 Tech Consultant | 📊 Data Analyst | 🧠 Mentor</h3>
