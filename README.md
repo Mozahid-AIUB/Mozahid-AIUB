@@ -28,7 +28,7 @@ I’m passionate about building and delivering end-to-end digital solutions. My 
 
 | Category           | Tools & Technologies |
 |-------------------|-----------------------|
-| **Languages**      | C#, Java, Python, SQL, JavaScript, Bash |
+| **Languages**      | c, C++ , C#, Java, Python, SQL, JavaScript, Bash |
 | **Frameworks**     | .NET, ASP.NET, Java Swing, Windows Forms |
 | **Databases**      | Oracle, MS SQL Server, MySQL |
 | **Visualization**  | Excel, Power BI(basic) |
