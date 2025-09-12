@@ -29,10 +29,10 @@ I’m passionate about building and delivering end-to-end digital solutions. My 
 | Category           | Tools & Technologies |
 |-------------------|-----------------------|
 | **Languages**      | C, C++ , C#, Java, Python, SQL, JavaScript, Bash |
-| **Frameworks**     | .NET, ASP.NET, Java Swing, Windows Forms |
+| **Frameworks**     | .NET, ASP.NET, Java Swing, Windows Forms, Python Manim |
 | **Databases**      | Oracle, MS SQL Server, MySQL |
 | **Visualization**  | Excel, Power BI(basic) |
-| **Tools & VCS**    | Visual Studio, VS Code, Git, GitHub |
+| **Tools & VCS**    | VS Code, Visual Studio,Pycharm< CodeBlocks, VS Code, Git, GitHub , AutoDesk(Autocad)|
 | **Workflow**       | UML (use case, sequence diagrams), Agile,Xp industry Standart SWE model |
 
 ---
