@@ -20,7 +20,7 @@
 
 ```yaml
 Name      : Mozahidul Islam
-Role      : Software Engineer | Full-Stack Developer | Tech Content Creator
+Role      : Software Engineer | Full-Stack Developer | Movile Developer 
 Education : B.Sc. in CSE — AIUB (CGPA: 3.68 / 4.00)
 Location  : Dhaka, Bangladesh
 Status    : Open to Work — Software Engineering & Data Science roles
